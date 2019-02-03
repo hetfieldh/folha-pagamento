@@ -1,0 +1,15 @@
+package model.enums;
+
+public enum Cargo {
+
+	DIRETOR,
+	GERENTE,
+	COORDENADOR,
+	SUPERVISOR,
+	ANALISTA,
+	ASSISTENTE,
+	AUXILIAR,
+	VENDEDOR,
+	ADVOGADO;
+	
+}
